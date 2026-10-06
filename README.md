@@ -1,3 +1,3 @@
 # Jenkins Demo
 
-This project is being built by Jenkins!
+This project is being built automatically by Jenkins!
